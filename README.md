@@ -3,10 +3,10 @@ This PowerShell script offers a simple yet effective File Integrity Monitoring (
 
 ## Key Features:
 
-### Baseline Collection: *Create a baseline of file hashes for a specified folder.*
-### Real-time Monitoring: *Detect changes, additions, and deletions in monitored files.*
-### SHA512 Hashing: *Utilizes SHA512 algorithm for secure and reliable hash calculations.*
-### Notification System: *Receive real-time notifications for file system events.*
+## Baseline Collection: *Create a baseline of file hashes for a specified folder.*
+## Real-time Monitoring: *Detect changes, additions, and deletions in monitored files.*
+## SHA512 Hashing: *Utilizes SHA512 algorithm for secure and reliable hash calculations.*
+## Notification System: *Receive real-time notifications for file system events.*
 
 ### Getting Started:
 Clone the repository: git clone https://github.com/sodmiseaniket/PowerShell-File-Integrity-Monitoring-FIM-System
